@@ -10,7 +10,7 @@ Streamlit framework is used to create the dynamic web application.
 
 Python programming language is used.
 
-For database connection, Firebase platform is used.
+Firebase platform is used for database connection
 
 Visual Studio Code is used
 
